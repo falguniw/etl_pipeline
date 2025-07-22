@@ -1,0 +1,6 @@
+Name,Age,Salary,Department
+Alice,25,50000,Sales
+Bob,,60000,Engineering
+Charlie,30,,HR
+David,28,58000,Engineering
+Eva,,55000,Sales
